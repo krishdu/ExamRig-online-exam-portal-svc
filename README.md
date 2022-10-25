@@ -1,4 +1,4 @@
-# Online Examination Portal 
+# ExamRig, a simple online exam portal solution
 
 > This is a very basic project, started just to get an idea about
 + Spring boot
