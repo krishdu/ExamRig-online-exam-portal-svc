@@ -7,7 +7,7 @@
 + Dependency injection
 + Entity Relationship mapping
 
-[LIVE APPLICATION](http://examrig-online-exam-portal.vercel.app/)
+[LIVE APPLICATION](https://examrig-online-exam-portal.vercel.app/)
 
 >    
 > User 
