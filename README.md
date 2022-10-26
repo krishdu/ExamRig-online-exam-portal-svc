@@ -6,6 +6,7 @@
 + Creation of REST endpoint
 + Dependency injection
 + Entity Relationship mapping
++ Dockerized a Spring Boot Application
 
 [LIVE APPLICATION](https://examrig-online-exam-portal.vercel.app/)
 
