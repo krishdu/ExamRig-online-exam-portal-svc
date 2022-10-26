@@ -5,6 +5,9 @@
 + Spring Data Jpa
 + Creation of REST endpoint
 + Dependency injection
++ Entity Relationship mapping
+
+[LIVE APPLICATION](http://examrig-online-exam-portal.vercel.app/)
 
 >    
 > User 
@@ -23,3 +26,5 @@
 
 > Assumptions - 
   + Not handled any exceptions
+
+[UI CODEBASE](https://github.com/krishdu/ExamRig-online-exam-portal-spa)
