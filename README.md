@@ -8,7 +8,12 @@
 + Entity Relationship mapping
 + Dockerized a Spring Boot Application
 
-[LIVE APPLICATION](https://examrig-online-exam-portal.vercel.app/)
+| [Live Application (👆)](https://examrig-online-exam-portal.vercel.app/) |
+| ------ |  
+
+<p align="center">
+<img alt="GIF" src="https://github.com/krishdu/ExamRig-online-exam-portal-spa/blob/master/exam-rig-online-exam-system.gif?raw=true" width="800" height="400"/>
+</p>
 
 >    
 > User 
@@ -27,5 +32,6 @@
 
 > Assumptions - 
   + Not handled any exceptions
-
-[UI CODEBASE](https://github.com/krishdu/ExamRig-online-exam-portal-spa)
+  
+| [UI CODEBASE (👆)](https://github.com/krishdu/ExamRig-online-exam-portal-spa) |
+| ------ | 
